@@ -2,6 +2,7 @@
 Estonian Academy of Arts Digital product design 1-year project GAME
 
 https://inter9neti.itch.io/lawn-mowing-simulator
+
 (the code is under "Assets/katsetused")
 
 Used free assets:

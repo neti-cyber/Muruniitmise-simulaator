@@ -1,6 +1,8 @@
 # Muruniitmise-simulaator
 Estonian Academy of Arts Digital product design 1-year project GAME
 
+https://inter9neti.itch.io/lawn-mowing-simulator
+
 Used free assets:
 
 sounds: 
